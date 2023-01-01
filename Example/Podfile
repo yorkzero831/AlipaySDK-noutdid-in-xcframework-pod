@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlipaySDK-noutdid-in-xcframework_Tests' do
+  pod 'AlipaySDK-noutdid-in-xcframework', :path => '../'
+  
+  
+end
